@@ -1,5 +1,5 @@
 ¡Hola! Soy **Eduardo Vazquez** 👋
--[Imagen de perfil](URL de tu perfil en LinkedIn o portafolio personal)
+<!-- [Imagen de perfil](URL de tu perfil en LinkedIn o portafolio personal)
 
 Sobre Mí
 Soy un apasionado [Tu Profesión o Área de Interés] con [Número] años de experiencia. Me encanta [Menciona tus hobbies o intereses].
@@ -18,7 +18,6 @@ Email: [Tu dirección de correo electrónico]
 ¡Hablemos!
 ¡Me encantaría colaborar en proyectos interesantes! No dudes en contactarme si tienes alguna pregunta o propuesta.
 
-<!--
 **eddkentuchi/eddkentuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
