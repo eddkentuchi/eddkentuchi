@@ -1,9 +1,10 @@
 ¡Hola! Soy **Eduardo Vazquez** 👋
-<!-- [Imagen de perfil](URL de tu perfil en LinkedIn o portafolio personal)
+
 
 Sobre Mí
-Soy un apasionado [Tu Profesión o Área de Interés] con [Número] años de experiencia. Me encanta [Menciona tus hobbies o intereses].
-
+Soy un apasionado desarrollador backend y multiplataforma con 3 años de experiencia.
+<!-- [Imagen de perfil](URL de tu perfil en LinkedIn o portafolio personal)
+ Me encanta [Menciona tus hobbies o intereses].
 Habilidades y Tecnologías
 Lenguajes de Programación: [Lista los lenguajes que dominas]
 Frameworks y Bibliotecas: [Lista los frameworks y bibliotecas que usas]
