@@ -1,4 +1,4 @@
-¡Hola! Soy **Eduardo Vazquez** 👋
+✨¡Hola! Soy **Eduardo Vazquez** 👋✨
 
 
 Sobre Mí
