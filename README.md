@@ -3,10 +3,11 @@
 
 Sobre Mí
 Soy un apasionado desarrollador backend y multiplataforma con 3 años de experiencia.
+
+Habilidades y Tecnologías
+Lenguajes de Programación: python, javascript, dart, C/C++
 <!-- [Imagen de perfil](URL de tu perfil en LinkedIn o portafolio personal)
  Me encanta [Menciona tus hobbies o intereses].
-Habilidades y Tecnologías
-Lenguajes de Programación: [Lista los lenguajes que dominas]
 Frameworks y Bibliotecas: [Lista los frameworks y bibliotecas que usas]
 Herramientas: [Lista las herramientas que conoces]
 Otros: [Habilidades blandas, metodologías, etc.]
