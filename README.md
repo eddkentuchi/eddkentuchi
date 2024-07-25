@@ -5,6 +5,7 @@ Soy un apasionado desarrollador backend y multiplataforma con 3 años de experie
 
 Habilidades y Tecnologías
 Lenguajes de Programación: python, javascript, dart, C/C++
+- 🌱 I’m currently learning Terraform and Apache Kafka
 <!-- [Imagen de perfil](URL de tu perfil en LinkedIn o portafolio personal)
  Me encanta [Menciona tus hobbies o intereses].
 Frameworks y Bibliotecas: [Lista los frameworks y bibliotecas que usas]
@@ -24,7 +25,7 @@ Email: [Tu dirección de correo electrónico]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
