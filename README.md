@@ -1,4 +1,4 @@
-✨¡Hi! I'm **Eduardo Vazquez** 👋✨
+✨✨¡Hi! I'm **Eduardo Vazquez** 👋✨
 
 About me.
 Soy un apasionado desarrollador backend y multiplataforma con 3 años de experiencia.
